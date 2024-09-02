@@ -22,12 +22,12 @@ The objective is to provide insights into road accidents for the years 2021 and 
 **Data Description:**
 
 - Dataset Source: [Kaggle](https://www.kaggle.com/)
-- Dataset Name: [Road Accident Dataset](https://github.com/jagritsharma24/Data-Analytics-Project/blob/1aca00cff98358b3f14aec55f8c7785c47e20a37/Excel-Projects/Road-Accident-Analysis/Dataset_%26_Dashboard.xlsx)
+- Dataset Name: [Road Accident Dataset](https://github.com/krvipin15/Data-Analytics-Project/blob/1aca00cff98358b3f14aec55f8c7785c47e20a37/Excel-Projects/Road-Accident-Analysis/Dataset_%26_Dashboard.xlsx)
 - Data Size: 3.07 Million rows and 21 columns
 
 **Key Performance Indicators (KPIs):**
 
-![Data Analysis Sheet](https://raw.githubusercontent.com/jagritsharma24/Data-Analytics-Project/main/Excel-Projects/Road-Accident-Analysis/Images/Road_Accident_Analysis_img.png)
+![Data Analysis Sheet](https://github.com/jagritsharma24/road-accident-analysis/blob/main/Images/Road_Accident_Analysis_img.png?raw=true)
 
 1. Primary KPI - Total Casualties after the accident: This KPI will provide an overview of the total number of casualties that occurred after each road accident.
 
@@ -79,7 +79,7 @@ Here's a summarized version of the steps to create the Road Accident Dashboard:
 
 **Road Accident Dashboard:**
 
-![Dashboard](https://raw.githubusercontent.com/jagritsharma24/Data-Analytics-Project/main/Excel-Projects/Road-Accident-Analysis/Images/Road_Accident_Dashboard_img.png)
+![Dashboard](https://github.com/jagritsharma24/road-accident-analysis/blob/main/Images/Road_Accident_Dashboard_img.png?raw=true)
 
 **Conclusion:**
 
